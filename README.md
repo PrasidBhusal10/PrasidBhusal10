@@ -9,6 +9,7 @@ My name is Prasid Bhusal, and I am a junior undergraduate student in Computer Sc
 First, I have immense respect for every field of study. Each discipline plays a vital role in shaping the world. However, what drew me to Computer Science is its power to revolutionize lives. Technology has transformed how we live—whether it's connecting with people across the globe, ordering food from home, or sending money instantly. Growing up witnessing this impact inspired me to contribute to this field and help make life even more efficient and accessible.
 
 ⌨️ The "How" Behind the Screen
+
 I’ve always been that person who stays curious. I used to sit at my computer wondering: How does this actually work? Like, how can I press a single key and see a letter pop up instantly, or hit backspace and watch it disappear in a split second? 🧠 That curiosity is what drives me.
 
 🕰️ Where it started...
