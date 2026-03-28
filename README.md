@@ -1,6 +1,6 @@
-👋 Hi there, welcome to my GitHub!
+👋 Hi there, welcome to my GitHub! 
 
-👨‍💻 About Me
+👨‍💻 About Me 
 
 My name is Prasid Bhusal, and I am a junior undergraduate student in Computer Science at Texas Tech University.
 
